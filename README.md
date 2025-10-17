@@ -1,7 +1,7 @@
-# <div align="center">🚀 Chanakya Vasantha 🚀</div>
+# <div align="center"> Chanakya Vasantha </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=160&lines=Agentic+AI+Engineer;Quantitative+Research+Expert;Computer+Vision+Specialist;Building+the+Future+with+AI" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6E00&center=true&vCenter=true&multiline=true&width=600&height=160&lines=Agentic+AI+Engineer;Quantitative+Research+Expert;Computer+Vision+Specialist;Building+the+Future+with+AI" alt="Typing Animation" />
 </div>
 
 <div align="center">
