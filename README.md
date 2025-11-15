@@ -12,7 +12,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎓 **MS AI Systems** @ University of Florida (3.9 GPA)
 - 🏆 **Smart India Hackathon Winner** (1st/250K)
 - 📈 Built models with **2-3× S&P 500 returns**
 - 🤖 **IEEE COMSNETS 2025** published researcher
