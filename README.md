@@ -1,4 +1,4 @@
-# <div align="center">🚀 Chanakya Vasantha</div>
+# <div align="center">Chanakya Vasantha</div>
 
 
 <div align="center">
@@ -9,8 +9,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🏆 **Smart India Hackathon Winner** (1st/250K)
-- 📈 Built models with **2-3× S&P 500 returns**
-- 🤖 **IEEE COMSNETS 2025** published researcher
-- 🔬 Graduate Researcher in AI, ML
+- **Smart India Hackathon Winner** (1st/250K)
+- Built models with **2-3× S&P 500 returns**
+- **IEEE COMSNETS 2025** published researcher
+- Graduate Researcher in AI, ML
 
